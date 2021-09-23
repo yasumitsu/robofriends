@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Tech stack
 
-[React](https://reactjs.org/), [tachyons](https://tachyons.io/), [Robohash](https://robohash.org/), [JSON Placeholder](https://jsonplaceholder.typicode.com/)
+[React](https://reactjs.org/), [tachyons](https://tachyons.io/), [Robohash](https://robohash.org/), [JSON Placeholder](https://jsonplaceholder.typicode.com/), [Redux](https://redux.js.org/)
 
 ## Available Scripts
 
